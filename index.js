@@ -5,4 +5,3 @@ function happyHolidays() {
 function happyHolidaysTo(greeting, name) {
   console.log('Happy holidays, ${name}')
 }
-happyHolidaysTo(you)
